@@ -1,6 +1,6 @@
 # Advanced-Sales-Dashboard-Development-in-Tableau👋
 
-
+**Interactive Dashboard Link:** [View on Tableau Public](https://public.tableau.com/app/profile/ismail.abdul.maroof/viz/Customer_Dashboard_17378393669960/Dashboardforinsights)  
 ## Problem Statement
 The retail business requires continuous adaptation to market trends. Analyzing customer behavior and trending items is crucial for strategic decision-making. This project involves building an interactive Tableau dashboard to visually analyze customer purchasing behavior and provide key insights to stakeholders.
 
